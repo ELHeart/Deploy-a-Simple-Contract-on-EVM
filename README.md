@@ -17,7 +17,7 @@ Deploy a simple contract on EVM's L1 &amp; L2 using Remix
  ![image](https://user-images.githubusercontent.com/31314340/211135125-0a12861a-f1c2-45d7-8fd6-aa167aff6e12.png)
 
 
-6. Unlock your Metamask wallet and Connect to Goereli Testnet
+6. Unlock your Metamask wallet and Connect to whatever Testnet you're deploying to.
 ![image](https://user-images.githubusercontent.com/31314340/211138883-14375acc-57c2-4e9b-8561-1baa73d41775.png)
 
 Go to your metamask wallet and approve transaction. wait 30sec - 1 minutes to create contract
